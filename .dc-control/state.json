@@ -1,8 +1,8 @@
 {
   "version": 1,
   "target": "6ac2b4ba-fd60-40ea-9fd9-d0cc6ad9f480",
-  "desired_state": "off",
-  "issued_at": "2026-09-25T22:58:00Z",
-  "expires_at": "2026-09-25T23:08:00Z",
-  "seq": 3
+  "desired_state": "on",
+  "issued_at": "2026-09-25T23:13:00Z",
+  "expires_at": "2026-09-25T23:23:00Z",
+  "seq": 4
 }
