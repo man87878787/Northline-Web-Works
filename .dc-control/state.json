@@ -1,8 +1,8 @@
 {
   "version": 2,
   "target": "6ac2b4ba-fd60-40ea-9fd9-d0cc6ad9f480",
-  "command": "start",
-  "issued_at": "2026-09-30T23:12:00Z",
-  "expires_at": "2026-09-30T23:42:00Z",
-  "seq": 7
+  "command": "stop",
+  "issued_at": "2026-09-30T23:15:30Z",
+  "expires_at": "2026-09-30T23:45:30Z",
+  "seq": 8
 }
