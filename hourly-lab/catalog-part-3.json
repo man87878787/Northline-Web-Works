@@ -1,0 +1,202 @@
+[
+  {
+    "slug": "circle-geometry",
+    "title": "Circle Geometry",
+    "description": "Calculate circle area, circumference and diameter.",
+    "category": "Math & science",
+    "path": "projects/circle-geometry/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "rectangle-geometry",
+    "title": "Rectangle Geometry",
+    "description": "Calculate rectangle area, perimeter and diagonal.",
+    "category": "Math & science",
+    "path": "projects/rectangle-geometry/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "triangle-area",
+    "title": "Triangle Area",
+    "description": "Calculate triangle area from base and perpendicular height.",
+    "category": "Math & science",
+    "path": "projects/triangle-area/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "pythagorean",
+    "title": "Pythagorean Theorem",
+    "description": "Calculate right-triangle hypotenuse from its legs.",
+    "category": "Math & science",
+    "path": "projects/pythagorean/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "coordinate-distance",
+    "title": "Coordinate Distance",
+    "description": "Measure Euclidean distance between two points.",
+    "category": "Math & science",
+    "path": "projects/coordinate-distance/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "midpoint-finder",
+    "title": "Midpoint Finder",
+    "description": "Find the midpoint between two coordinate points.",
+    "category": "Math & science",
+    "path": "projects/midpoint-finder/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "slope-finder",
+    "title": "Slope Finder",
+    "description": "Calculate slope of the line through two points.",
+    "category": "Math & science",
+    "path": "projects/slope-finder/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "slope-intercept",
+    "title": "Slope Intercept Evaluator",
+    "description": "Evaluate y = mx + b for a chosen x.",
+    "category": "Math & science",
+    "path": "projects/slope-intercept/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "linear-solver",
+    "title": "Linear Equation Solver",
+    "description": "Solve ax + b = c.",
+    "category": "Math & science",
+    "path": "projects/linear-solver/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "quadratic-solver",
+    "title": "Quadratic Equation Solver",
+    "description": "Solve ax² + bx + c = 0 for real roots.",
+    "category": "Math & science",
+    "path": "projects/quadratic-solver/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "fraction-reducer",
+    "title": "Fraction Simplifier",
+    "description": "Reduce an integer fraction using its greatest common divisor.",
+    "category": "Math & science",
+    "path": "projects/fraction-reducer/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "gcd-lcm",
+    "title": "GCD and LCM",
+    "description": "Calculate greatest common divisor and least common multiple.",
+    "category": "Math & science",
+    "path": "projects/gcd-lcm/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "prime-check",
+    "title": "Prime Number Checker",
+    "description": "Check whether a safe positive integer is prime.",
+    "category": "Math & science",
+    "path": "projects/prime-check/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "factorial-calculator",
+    "title": "Factorial Calculator",
+    "description": "Calculate n! for whole numbers up to 170.",
+    "category": "Math & science",
+    "path": "projects/factorial-calculator/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "fibonacci-generator",
+    "title": "Fibonacci Sequence",
+    "description": "Generate Fibonacci sequence terms.",
+    "category": "Math & science",
+    "path": "projects/fibonacci-generator/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "arithmetic-sequence",
+    "title": "Arithmetic Sequence",
+    "description": "Generate terms using a starting value and constant difference.",
+    "category": "Math & science",
+    "path": "projects/arithmetic-sequence/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "geometric-sequence",
+    "title": "Geometric Sequence",
+    "description": "Generate sequence terms with a fixed ratio.",
+    "category": "Math & science",
+    "path": "projects/geometric-sequence/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "descriptive-statistics",
+    "title": "Mean Median Mode",
+    "description": "Compute common summary statistics on a dataset.",
+    "category": "Math & science",
+    "path": "projects/descriptive-statistics/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "standard-deviation",
+    "title": "Standard Deviation",
+    "description": "Find sample and population standard deviation.",
+    "category": "Math & science",
+    "path": "projects/standard-deviation/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "combinations",
+    "title": "Combination Counter",
+    "description": "Count n choose r combinations.",
+    "category": "Math & science",
+    "path": "projects/combinations/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "permutations",
+    "title": "Permutation Counter",
+    "description": "Count ordered selections nPr.",
+    "category": "Math & science",
+    "path": "projects/permutations/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "angle-converter",
+    "title": "Degrees and Radians",
+    "description": "Convert an angle from degrees to radians and back.",
+    "category": "Math & science",
+    "path": "projects/angle-converter/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "ohms-law",
+    "title": "Ohm's Law",
+    "description": "Calculate voltage, current, or resistance from two known values.",
+    "category": "Math & science",
+    "path": "projects/ohms-law/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "resistors-in-series",
+    "title": "Series Resistor Calculator",
+    "description": "Sum resistances connected in series.",
+    "category": "Math & science",
+    "path": "projects/resistors-in-series/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "parallel-resistors",
+    "title": "Parallel Resistor Calculator",
+    "description": "Find equivalent resistance of positive parallel resistors.",
+    "category": "Math & science",
+    "path": "projects/parallel-resistors/index.html",
+    "smoke_test": "passed"
+  }
+]
