@@ -1,0 +1,202 @@
+[
+  {
+    "slug": "time-duration",
+    "title": "Elapsed Time",
+    "description": "Calculate the minutes elapsed between 24-hour times.",
+    "category": "Productivity & conversions",
+    "path": "projects/time-duration/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "shift-end-time",
+    "title": "Shift End Time",
+    "description": "Add work duration to starting time and show next-day offset.",
+    "category": "Productivity & conversions",
+    "path": "projects/shift-end-time/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "date-adder",
+    "title": "Date Plus Days",
+    "description": "Add or subtract calendar days.",
+    "category": "Productivity & conversions",
+    "path": "projects/date-adder/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "date-difference",
+    "title": "Date Difference",
+    "description": "Count calendar days between two dates.",
+    "category": "Productivity & conversions",
+    "path": "projects/date-difference/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "weekday-lookup",
+    "title": "Weekday Finder",
+    "description": "Find the weekday for any valid ISO date.",
+    "category": "Productivity & conversions",
+    "path": "projects/weekday-lookup/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "business-day-count",
+    "title": "Weekday Counter",
+    "description": "Count weekdays in an inclusive date range (does not exclude holidays).",
+    "category": "Productivity & conversions",
+    "path": "projects/business-day-count/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "event-days-away",
+    "title": "Days Until Event",
+    "description": "Calculate the days remaining until a chosen date.",
+    "category": "Productivity & conversions",
+    "path": "projects/event-days-away/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "time-zone-offset",
+    "title": "UTC Offset Converter",
+    "description": "Convert UTC clock time to a fixed numeric UTC offset; excludes DST.",
+    "category": "Productivity & conversions",
+    "path": "projects/time-zone-offset/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "pomodoro-plan",
+    "title": "Focus Session Planner",
+    "description": "Plan total work and break duration.",
+    "category": "Productivity & conversions",
+    "path": "projects/pomodoro-plan/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "study-plan",
+    "title": "Study Subject Allocator",
+    "description": "Allocate available study time using weights.",
+    "category": "Productivity & conversions",
+    "path": "projects/study-plan/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "task-priority",
+    "title": "Task Priority Ranker",
+    "description": "Rank a task list by impact, urgency and effort.",
+    "category": "Productivity & conversions",
+    "path": "projects/task-priority/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "random-picker",
+    "title": "Random Item Picker",
+    "description": "Pick one item at random from user-supplied options.",
+    "category": "Productivity & conversions",
+    "path": "projects/random-picker/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "team-divider",
+    "title": "Team Divider",
+    "description": "Randomly distribute names among multiple teams.",
+    "category": "Productivity & conversions",
+    "path": "projects/team-divider/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "flashcard-exporter",
+    "title": "Flashcard TSV Maker",
+    "description": "Convert term-definition lines into TSV cards.",
+    "category": "Productivity & conversions",
+    "path": "projects/flashcard-exporter/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "quiz-sheet",
+    "title": "Printable Practice Quiz",
+    "description": "Turn questions into a numbered worksheet.",
+    "category": "Productivity & conversions",
+    "path": "projects/quiz-sheet/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "initials-avatar",
+    "title": "SVG Initials Avatar",
+    "description": "Generate a square SVG for initials.",
+    "category": "Productivity & conversions",
+    "path": "projects/initials-avatar/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "rgb-hex",
+    "title": "RGB to Hex",
+    "description": "Convert red, green and blue channels to hex.",
+    "category": "Productivity & conversions",
+    "path": "projects/rgb-hex/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "hex-rgb",
+    "title": "Hex to RGB",
+    "description": "Decode six-digit colors into channel values.",
+    "category": "Productivity & conversions",
+    "path": "projects/hex-rgb/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "complementary-color",
+    "title": "Inverted Companion Color",
+    "description": "Find RGB channel-inverted color complement.",
+    "category": "Productivity & conversions",
+    "path": "projects/complementary-color/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "color-shades",
+    "title": "Hex Color Tints",
+    "description": "Generate five progressively lighter color tints.",
+    "category": "Productivity & conversions",
+    "path": "projects/color-shades/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "recipe-scaler",
+    "title": "Recipe Ingredient Scaler",
+    "description": "Adjust quantities for any serving count.",
+    "category": "Productivity & conversions",
+    "path": "projects/recipe-scaler/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "temperature-converter",
+    "title": "Temperature Converter",
+    "description": "Convert Celsius, Fahrenheit and Kelvin.",
+    "category": "Productivity & conversions",
+    "path": "projects/temperature-converter/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "length-converter",
+    "title": "Length Converter",
+    "description": "Convert m, cm, km, mi and ft.",
+    "category": "Productivity & conversions",
+    "path": "projects/length-converter/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "mass-converter",
+    "title": "Mass Converter",
+    "description": "Convert g, kg, lb and oz.",
+    "category": "Productivity & conversions",
+    "path": "projects/mass-converter/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "speed-converter",
+    "title": "Speed Converter",
+    "description": "Convert miles/hour, kilometers/hour and meters/second.",
+    "category": "Productivity & conversions",
+    "path": "projects/speed-converter/index.html",
+    "smoke_test": "passed"
+  }
+]
