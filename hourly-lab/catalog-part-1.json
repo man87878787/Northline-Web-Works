@@ -1,0 +1,202 @@
+[
+  {
+    "slug": "word-counter",
+    "title": "Word Counter",
+    "category": "Text",
+    "description": "Count words, characters and sentences.",
+    "path": "projects/word-counter/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "reading-time",
+    "title": "Reading Time",
+    "category": "Text",
+    "description": "Estimate reading duration.",
+    "path": "projects/reading-time/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "case-converter",
+    "title": "Case Converter",
+    "category": "Text",
+    "description": "Change text letter case.",
+    "path": "projects/case-converter/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "slug-builder",
+    "title": "Slug Builder",
+    "category": "Developer",
+    "description": "Create URL slugs from article titles.",
+    "path": "projects/slug-builder/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "keyword-counter",
+    "title": "Keyword Frequency",
+    "category": "Text",
+    "description": "Count frequent words.",
+    "path": "projects/keyword-counter/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "duplicate-line-remover",
+    "title": "Duplicate Line Remover",
+    "category": "Text",
+    "description": "Deduplicate repeated lines.",
+    "path": "projects/duplicate-line-remover/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "whitespace-cleaner",
+    "title": "Whitespace Cleaner",
+    "category": "Text",
+    "description": "Collapse extra spaces and blank lines.",
+    "path": "projects/whitespace-cleaner/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "find-replace",
+    "title": "Find and Replace",
+    "category": "Text",
+    "description": "Replace matching text throughout a document.",
+    "path": "projects/find-replace/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "markdown-table",
+    "title": "Markdown Table",
+    "category": "Developer",
+    "description": "Make Markdown tables from CSV-style rows.",
+    "path": "projects/markdown-table/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "csv-to-json",
+    "title": "CSV to JSON",
+    "category": "Developer",
+    "description": "Convert basic comma-separated values into JSON.",
+    "path": "projects/csv-to-json/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "json-formatter",
+    "title": "JSON Formatter",
+    "category": "Developer",
+    "description": "Validate and pretty-print JSON.",
+    "path": "projects/json-formatter/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "line-diff",
+    "title": "Line Comparison",
+    "category": "Developer",
+    "description": "Compare added and removed lines.",
+    "path": "projects/line-diff/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "acronym-maker",
+    "title": "Acronym Maker",
+    "category": "Text",
+    "description": "Turn a phrase into capitalized initials.",
+    "path": "projects/acronym-maker/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "character-report",
+    "title": "Character Report",
+    "category": "Text",
+    "description": "Count letters, numbers and symbols.",
+    "path": "projects/character-report/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "line-sorter",
+    "title": "Line Sorter",
+    "category": "Text",
+    "description": "Sort lines alphabetically or by length.",
+    "path": "projects/line-sorter/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "url-inspector",
+    "title": "URL Query Inspector",
+    "category": "Developer",
+    "description": "Inspect the parameters in a web address.",
+    "path": "projects/url-inspector/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "html-escaper",
+    "title": "HTML Escaper",
+    "category": "Developer",
+    "description": "Escape unsafe HTML text characters.",
+    "path": "projects/html-escaper/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "base64-encoder",
+    "title": "Base64 Text Encoder",
+    "category": "Developer",
+    "description": "Encode or decode Unicode Base64 text.",
+    "path": "projects/base64-encoder/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "rot13",
+    "title": "ROT13 Tool",
+    "category": "Education",
+    "description": "Demonstrate a reversible substitution cipher.",
+    "path": "projects/rot13/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "caesar-shift",
+    "title": "Caesar Shift Cipher",
+    "category": "Education",
+    "description": "Shift letters for learning classic cryptography.",
+    "path": "projects/caesar-shift/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "emoji-remover",
+    "title": "Emoji Remover",
+    "category": "Text",
+    "description": "Remove pictographic emoji from text.",
+    "path": "projects/emoji-remover/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "word-order-reverser",
+    "title": "Reverse Word Order",
+    "category": "Text",
+    "description": "Reverse the order of words in a sentence.",
+    "path": "projects/word-order-reverser/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "markdown-checklist",
+    "title": "Markdown Checklist",
+    "category": "Productivity",
+    "description": "Convert separate tasks into checkboxes.",
+    "path": "projects/markdown-checklist/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "color-contrast",
+    "title": "Color Contrast Checker",
+    "category": "Design",
+    "description": "Check WCAG text color contrast ratio.",
+    "path": "projects/color-contrast/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "css-shadow",
+    "title": "CSS Shadow Maker",
+    "category": "Design",
+    "description": "Generate CSS box-shadow styling.",
+    "path": "projects/css-shadow/index.html",
+    "smoke_test": "passed"
+  }
+]
