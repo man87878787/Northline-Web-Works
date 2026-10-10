@@ -1,0 +1,202 @@
+[
+  {
+    "slug": "sale-discount",
+    "title": "Discounted Price",
+    "description": "Calculate the final price after a percentage discount.",
+    "category": "Finance & planning",
+    "path": "projects/sale-discount/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "sales-tax",
+    "title": "Sales Tax Calculator",
+    "description": "Find tax and total purchase cost.",
+    "category": "Finance & planning",
+    "path": "projects/sales-tax/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "tip-calculator",
+    "title": "Tip Calculator",
+    "description": "Estimate tips and the final bill.",
+    "category": "Finance & planning",
+    "path": "projects/tip-calculator/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "split-bill",
+    "title": "Split Bill Calculator",
+    "description": "Divide a bill evenly between people.",
+    "category": "Finance & planning",
+    "path": "projects/split-bill/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "unit-price",
+    "title": "Unit Price Comparator",
+    "description": "Compare two packages on price per unit.",
+    "category": "Finance & planning",
+    "path": "projects/unit-price/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "percentage-change",
+    "title": "Percentage Change",
+    "description": "Calculate growth or decline between two values.",
+    "category": "Finance & planning",
+    "path": "projects/percentage-change/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "simple-interest",
+    "title": "Simple Interest",
+    "description": "Estimate interest using principal, rate and years.",
+    "category": "Finance & planning",
+    "path": "projects/simple-interest/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "compound-growth",
+    "title": "Compound Growth",
+    "description": "Estimate compound balance at regular compounding frequency.",
+    "category": "Finance & planning",
+    "path": "projects/compound-growth/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "savings-target",
+    "title": "Savings Target Timeline",
+    "description": "Estimate months to reach a savings goal.",
+    "category": "Finance & planning",
+    "path": "projects/savings-target/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "weekly-budget",
+    "title": "Weekly Budget",
+    "description": "Convert weekly spending plans to yearly budgets.",
+    "category": "Finance & planning",
+    "path": "projects/weekly-budget/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "monthly-budget",
+    "title": "Monthly Budget",
+    "description": "Track budget left after listed monthly expenses.",
+    "category": "Finance & planning",
+    "path": "projects/monthly-budget/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "hourly-annual-pay",
+    "title": "Hourly to Annual Pay",
+    "description": "Convert hourly pay into weekly, monthly and yearly gross income.",
+    "category": "Finance & planning",
+    "path": "projects/hourly-annual-pay/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "profit-margin",
+    "title": "Profit Margin",
+    "description": "Calculate gross margin from revenue and cost.",
+    "category": "Finance & planning",
+    "path": "projects/profit-margin/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "markup-calculator",
+    "title": "Markup Calculator",
+    "description": "Find selling price from cost and desired markup.",
+    "category": "Finance & planning",
+    "path": "projects/markup-calculator/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "break-even",
+    "title": "Break-even Units",
+    "description": "Find the units needed to cover fixed expenses.",
+    "category": "Finance & planning",
+    "path": "projects/break-even/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "commission-calculator",
+    "title": "Commission Calculator",
+    "description": "Estimate earnings from sales commissions.",
+    "category": "Finance & planning",
+    "path": "projects/commission-calculator/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "loan-payment",
+    "title": "Monthly Loan Payment",
+    "description": "Estimate a fixed-rate installment payment; excludes fees.",
+    "category": "Finance & planning",
+    "path": "projects/loan-payment/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "sinking-fund",
+    "title": "Sinking Fund Planner",
+    "description": "Set a monthly contribution toward an upcoming expense.",
+    "category": "Finance & planning",
+    "path": "projects/sinking-fund/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "subscription-total",
+    "title": "Subscription Total",
+    "description": "Total up monthly subscriptions and annual cost.",
+    "category": "Finance & planning",
+    "path": "projects/subscription-total/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "price-with-coupon",
+    "title": "Coupon and Tax",
+    "description": "Calculate discount first, then sales tax.",
+    "category": "Finance & planning",
+    "path": "projects/price-with-coupon/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "fuel-trip-cost",
+    "title": "Road Trip Fuel Cost",
+    "description": "Estimate driving fuel cost from trip distance and MPG.",
+    "category": "Finance & planning",
+    "path": "projects/fuel-trip-cost/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "cost-per-use",
+    "title": "Cost Per Use",
+    "description": "Estimate average purchase cost per use.",
+    "category": "Finance & planning",
+    "path": "projects/cost-per-use/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "straightline-depreciation",
+    "title": "Straight-line Depreciation",
+    "description": "Calculate equal annual depreciation for a fixed lifespan.",
+    "category": "Finance & planning",
+    "path": "projects/straightline-depreciation/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "inflation-projection",
+    "title": "Inflation Projection",
+    "description": "Estimate a future price under steady assumed inflation.",
+    "category": "Finance & planning",
+    "path": "projects/inflation-projection/index.html",
+    "smoke_test": "passed"
+  },
+  {
+    "slug": "travel-budget",
+    "title": "Trip Budget Planner",
+    "description": "Estimate remaining travel funds after several costs.",
+    "category": "Finance & planning",
+    "path": "projects/travel-budget/index.html",
+    "smoke_test": "passed"
+  }
+]
